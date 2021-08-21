@@ -8,7 +8,7 @@ SO THAT my website's state management is taken out of the React ecosystem
 ## Installation
 This project has been deployed to GitHub. https://github.com/Eduadomtz/Redux-Storenp
 
-To get this project up and running, you can follow the deployment link. 
+To get this project up and running, you can follow the deployment link. https://gentle-brushlands-82250.herokuapp.com
 
 ## Usage
 Select the type you want and then Checkout in your shopping cart 
