@@ -6,7 +6,7 @@ I WANT my platform to use Redux to manage global state instead of the Context AP
 SO THAT my website's state management is taken out of the React ecosystem
 
 ## Installation
-This project has been deployed to GitHub. https://github.com/Eduadomtz/Redux-Storenp
+This project has been deployed to GitHub. https://github.com/Eduadomtz/Redux-Store
 
 To get this project up and running, you can follow the deployment link. https://gentle-brushlands-82250.herokuapp.com
 
